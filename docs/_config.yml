@@ -1,0 +1,13 @@
+title: 我的知识花园
+description: 从私有知识库里挑出来的、对别人也可能有用的内容
+theme: minima
+lang: zh-CN
+timezone: Asia/Shanghai
+
+# 不显示 GitHub 自动生成的页脚，保持干净
+minima:
+  skin: auto
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

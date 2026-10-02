@@ -1,0 +1,14 @@
+# Jekyll 构建产物（GitHub 那边会自己生成，本地不需要）
+_site/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+
+# 系统垃圾
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
